@@ -5,7 +5,7 @@
   "dependencies": {
     "optimist": "0.6.0",
     "react-page-middleware": "git://github.com/facebook/react-page-middleware.git",
-    "react": "*",
+    "react": "0.12.1",
     "connect": "2.8.3",
     "glob": "*",
     "mkdirp": "*",

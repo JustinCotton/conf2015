@@ -49,5 +49,5 @@ var app = connect()
 var portToUse = port || 8080;
 var server = http.createServer(app);
 server.listen(portToUse);
-console.log('Open http://localhost:' + portToUse + '/conf/index.html');
+console.log('Open http://localhost:' + portToUse + '/conf2014/index.html');
 module.exports = server;
